@@ -1,0 +1,116 @@
+Abdul Moiz
+City: Hyderabad
+Email: grandsmoiz6@gmail.com
+Phone: +923331168898
+Country: Pakistan
+City: Hyderabad
+
+---
+
+Skills
+
+- Languages: HTML, CSS, JavaScript
+- Libraries/Frameworks: React.js
+- Tools: Visual Studio Code, Git/GitHub, firebase
+- Soft Skills: Fast Learner, Team Player
+
+---
+
+Objective
+
+Enthusiastic and self-motivated individual with a strong foundation in HTML, CSS, JavaScript, and React.js, 
+seeking an internship as a Frontend Developer. Eager to contribute my skills to real-world projects, learn 
+from experienced professionals, and grow as a frontend developer.
+
+---
+
+Education
+
+High School Graduate
+Boston House Public High School, Hyderabad
+Year of Graduation: 2022
+
+Currently Enrolled in College
+Degree College latifabad No 11 Hyd, Hyderabad
+Field of Study: [Pre Engineering]
+
+---
+
+My Projects:
+
+React.js Projects
+
+. [Coin Market](https://coin-market-f1bb7.web.app/)
+- Developed a comprehensive web application utilizing React.js to display real-time information about cryptocurrency markets.
+- Implemented features such as market data visualization, price tracking, and historical data analysis.
+- Technologies used: React.js, Firebase Hosting.
+
+. [Weather App](https://nothing-student.web.app/)
+- Created a dynamic Weather App using React.js that provides real-time weather information based on user input.
+- Integrated with a weather API to fetch accurate and up-to-date weather data.
+- Implemented features such as displaying current conditions, forecast, and location-based weather updates.
+
+. [Text Formatter](https://text-formatter-a0b46.web.app/)
+- Created a text formatting tool using React.js, allowing users to modify and stylize text easily.
+- Implemented features such as text alignment and font Size customization.
+- Provided a user-friendly interface with instant preview functionality.
+
+. [XSport Sneakers](https://xsports-sneakers.web.app/)
+- Developed a web application using React.js to showcase a collection of sneakers.
+- Implemented features such as product filtering, sorting, and detailed product pages.
+- Technologies used: React.js, Firebase Hosting.
+
+. [Meme Generator](https://meme-generator-s.web.app/)
+- Developed a meme generator web application using React.js.
+- Implemented features such as image upload, text editing, and meme creation.
+- Provided a user-friendly interface with instant meme preview functionality.
+
+---
+
+JavaScript Projects
+
+. [Stop Watch](https://thomas-shelbby.github.io/Stop-Watch/)
+- Developed a stopwatch application with start, stop, and reset functionalities using HTML, CSS, and JavaScript.
+- Designed an intuitive user interface with responsive layout for various devices.
+- Incorporated additional features such as lap time recording.
+
+. [To-Do App](https://thomas-shelbby.github.io/To-Do-App/)
+- Built a dynamic to-do application with features for adding, editing, and deleting tasks.
+- Utilized local storage for data persistence and ensured a user-friendly experience.
+- Implemented functionality for marking tasks as completed and filtering tasks.
+
+---
+
+HTML/CSS/Bootstrap Projects
+
+. [Good Landing Page](https://thomas-shelbby.github.io/Good/)
+- Designed and implemented an engaging landing page
+- Utilized HTML, CSS, and Bootstrap to achieve a visually appealing and responsive layout.
+- Ensured cross-browser compatibility and optimized performance.
+
+. [The Best NFT Website](https://thomas-shelbby.github.io/The-Best-NFT-Website/)
+- Created a visually stunning website showcasing the best NFTs in the market.
+- Implemented smooth animations and transitions using CSS.
+- Designed a responsive layout for a seamless user experience.
+
+. [Practice 4](https://thomas-shelbby.github.io/Practice-4/)
+- Developed a practice project to enhance HTML and CSS skills.
+- Implemented a clean and modern design with a focus on UI/UX.
+
+. [Bootstrap Project](https://thomas-shelbby.github.io/Bootstrap/)
+- Implemented a project utilizing Bootstrap to create a responsive and mobile-friendly website.
+- Customized Bootstrap components to match the project's design requirements.
+
+---
+
+Experience
+
+. Web Development Intern | Startup or Personal Projects, Hyderabad, Sindh | June,2023
+- Collaborated on various frontend projects to gain hands-on experience.
+- Applied HTML, CSS, and JavaScript skills to enhance website functionality.
+- Implemented responsive design practices for optimal user experience.
+
+---
+
+Regards,
+[Abdul Moiz]
