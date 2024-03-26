@@ -2529,7 +2529,7 @@ blockquote cite::before {
 }
 .tj-single__post ul li::before {
    content: '\f058';
-   font-family: var(--tj-ff-fontawesome);
+   font-family: 'FontAwesome';
    font-weight: var(--tj-fw-bold);
    color: var(--tj-theme-primary);
    position: absolute;
